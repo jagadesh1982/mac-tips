@@ -10,3 +10,8 @@ stop  : sudo launchctl unload /Library/LaunchDaemons/org.jenkins-ci.plist
 # Java Home Location
 
 /Library/Java/JavaVirtualMachines
+
+
+# Add Arguments to jenkins command line
+
+/Library/Application Support/Jenkins/jenkins-runner.sh
