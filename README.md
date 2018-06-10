@@ -33,6 +33,12 @@ f12  = Dashboard
 
 
 
+Trouble finding your cursor? Make it grow
+
+imply wiggle your mouse or run your finger rapidly back and forth across the trackpad to have it balloon in size. Once you’ve located it, simply stop and it will shrink back to normal.
+
+
+
 
 
 
