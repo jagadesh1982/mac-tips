@@ -1,0 +1,30 @@
+-----------------
+Uninstall Jenkins From Mac : '/Library/Application Support/Jenkins/Uninstall.command'
+                              sudo rm -rf /var/root/.jenkins ~/.jenkins
+
+
+sudo rm -rf /Users/Shared/Jenkins
+and to delete the jenkins user and group (if you chose to use them):
+
+sudo dscl . -delete /Users/jenkins
+sudo dscl . -delete /Groups/jenkins
+
+
+
+start Jenkins : sudo launchctl load /Library/LaunchDaemons/org.jenkins-ci.plist
+stop  Jenkins : sudo launchctl unload /Library/LaunchDaemons/org.jenkins-ci.plist
+
+Add Arguments to Jenkins ( Location of the file ) : /Library/Application Support/Jenkins/jenkins-runner.sh
+----------------
+
+
+Java Location : /Library/Java/JavaVirtualMachines
+
+
+Take a Part of the screen ctrl + shift + 4
+Ctrl + alt + delete in mac Cmd + Opt + Esc
+
+
+Trouble finding your cursor? Make it grow
+Simply wiggle your mouse or run your finger rapidly back and forth across the trackpad to have it balloon in size. Once you’ve located it, simply stop and it will shrink back to normal.
+
