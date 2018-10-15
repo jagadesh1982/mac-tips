@@ -28,3 +28,16 @@ Ctrl + alt + delete in mac Cmd + Opt + Esc
 Trouble finding your cursor? Make it grow
 Simply wiggle your mouse or run your finger rapidly back and forth across the trackpad to have it balloon in size. Once you’ve located it, simply stop and it will shrink back to normal.
 
+-----------------
+
+    To view all settings in the file, run: defaults read /Library/Preferences/org.jenkins-ci
+    To get the value of a single setting, run: defaults read /Library/Preferences/org.jenkins-ci SETTING
+    To set the value of a setting, run: sudo defaults write /Library/Preferences/org.jenkins-ci SETTING VALUE
+    For more information, see man defaults
+
+Starting/stopping the service
+
+    To manually start the daemon: sudo launchctl load /Library/LaunchDaemons/org.jenkins-ci.plist
+    To manually stop the daemon: sudo launchctl unload /Library/LaunchDaemons/org.jenkins-ci.plist
+
+
