@@ -1,0 +1,1000 @@
+ 7853  cd test/java/sampletesting/
+ 7854  vi RectangleTestCase.java 
+ 7855  cd ..
+ 7856  mvn clean jacoco:prepare-agent install jacoco:report
+ 7857  vi pom.xml 
+ 7858  mvn jacoco:report
+ 7859  cd target/
+ 7860  cd site/
+ 7861  cd jacoco/
+ 7862  open index.html 
+ 7863  cd ..
+ 7864  vi README.txt
+ 7865  clea
+ 7866  cat README.txt 
+ 7867  mvn clean
+ 7868  mvn test
+ 7869  cd target/
+ 7870  cd ..
+ 7871  mvn clean
+ 7872  pwd
+ 7873  cd ..
+ 7874  cd main/java/
+ 7875  cd sampletesting/
+ 7876  vi IntegrationTest.java
+ 7877  cd ..
+ 7878  cd test/java/
+ 7879  cd sampletesting/
+ 7880  vi ExampleIntegrationTest.java
+ 7881  vi pom.xml 
+ 7882  mvn clean test
+ 7883  vi pom.xml 
+ 7884  mvn clean test
+ 7885  cat ExampleIntegrationTest.java 
+ 7886  vi ExampleIntegrationTest.java 
+ 7887  mvn clean test
+ 7888  cd ..
+ 7889  d ..
+ 7890  cd ..
+ 7891  cd main/java/
+ 7892  cd sampletesting/
+ 7893  cat IntegrationTest.java 
+ 7894  cd ..
+ 7895  cd test/java/sampletesting/
+ 7896  vi ExampleIntegrationTest.java 
+ 7897  cd test/java/sampletesting/
+ 7898  mvn clean test
+ 7899  mvn clean test -X
+ 7900  cd target/
+ 7901  cd surefire-reports/
+ 7902  cd ..
+ 7903  cat pom.xml 
+ 7904  mvn clean install
+ 7905  cd target/
+ 7906  cd test-classes/
+ 7907  cd sampletesting/
+ 7908  cd ..
+ 7909  cd failsafe-reports/
+ 7910  cd ..
+ 7911  vi pom.xml 
+ 7912  Process name
+ 7913  cd sampletesting/
+ 7914  cd src/
+ 7915  cd main/java/
+ 7916  cd sampletesting/
+ 7917  cat Rectangle.java 
+ 7918  cd ..
+ 7919  cd test/java/sampletesting/
+ 7920  vi RectangleTestCase.java 
+ 7921  cd ..
+ 7922  mvn clean jacoco:prepare-agent install jacoco:report
+ 7923  vi pom.xml 
+ 7924  mvn jacoco:report
+ 7925  cd target/
+ 7926  cd site/
+ 7927  cd jacoco/
+ 7928  open index.html 
+ 7929  cd ..
+ 7930  vi README.txt
+ 7931  clea
+ 7932  cat README.txt 
+ 7933  mvn clean
+ 7934  mvn test
+ 7935  cd target/
+ 7936  cd ..
+ 7937  mvn clean
+ 7938  pwd
+ 7939  cd ..
+ 7940  cd main/java/
+ 7941  cd sampletesting/
+ 7942  vi IntegrationTest.java
+ 7943  cd ..
+ 7944  cd test/java/
+ 7945  cd sampletesting/
+ 7946  vi ExampleIntegrationTest.java
+ 7947  vi pom.xml 
+ 7948  mvn clean test
+ 7949  vi pom.xml 
+ 7950  mvn clean test
+ 7951  cat ExampleIntegrationTest.java 
+ 7952  vi ExampleIntegrationTest.java 
+ 7953  mvn clean test
+ 7954  cd ..
+ 7955  d ..
+ 7956  cd ..
+ 7957  cd main/java/
+ 7958  cd sampletesting/
+ 7959  cat IntegrationTest.java 
+ 7960  cd ..
+ 7961  cd test/java/sampletesting/
+ 7962  vi ExampleIntegrationTest.java 
+ 7963  cd test/java/sampletesting/
+ 7964  mvn clean test
+ 7965  mvn clean test -X
+ 7966  cd target/
+ 7967  cd surefire-reports/
+ 7968  cd ..
+ 7969  cat pom.xml 
+ 7970  mvn clean install
+ 7971  cd target/
+ 7972  cd test-classes/
+ 7973  cd sampletesting/
+ 7974  cd ..
+ 7975  cd failsafe-reports/
+ 7976  cd ..
+ 7977  vi pom.xml 
+ 7978  cd ..
+ 7979  cd sampletesting/
+ 7980  cd src/
+ 7981  cd main/java/
+ 7982  cd sampletesting/
+ 7983  cat Rectangle.java 
+ 7984  cd ..
+ 7985  cd test/java/sampletesting/
+ 7986  vi RectangleTestCase.java 
+ 7987  cd ..
+ 7988  mvn clean jacoco:prepare-agent install jacoco:report
+ 7989  vi pom.xml 
+ 7990  mvn jacoco:report
+ 7991  cd target/
+ 7992  cd site/
+ 7993  cd jacoco/
+ 7994  open index.html 
+ 7995  cd ..
+ 7996  vi README.txt
+ 7997  clea
+ 7998  cat README.txt 
+ 7999  mvn clean
+ 8000  mvn test
+ 8001  cd target/
+ 8002  cd ..
+ 8003  mvn clean
+ 8004  pwd
+ 8005  cd ..
+ 8006  cd main/java/
+ 8007  cd sampletesting/
+ 8008  vi IntegrationTest.java
+ 8009  cd ..
+ 8010  cd test/java/
+ 8011  cd sampletesting/
+ 8012  vi ExampleIntegrationTest.java
+ 8013  vi pom.xml 
+ 8014  mvn clean test
+ 8015  vi pom.xml 
+ 8016  mvn clean test
+ 8017  cat ExampleIntegrationTest.java 
+ 8018  vi ExampleIntegrationTest.java 
+ 8019  mvn clean test
+ 8020  cd ..
+ 8021  d ..
+ 8022  cd ..
+ 8023  cd main/java/
+ 8024  cd sampletesting/
+ 8025  cat IntegrationTest.java 
+ 8026  cd ..
+ 8027  cd test/java/sampletesting/
+ 8028  vi ExampleIntegrationTest.java 
+ 8029  cd test/java/sampletesting/
+ 8030  mvn clean test
+ 8031  mvn clean test -X
+ 8032  cd target/
+ 8033  cd surefire-reports/
+ 8034  cd ..
+ 8035  cat pom.xml 
+ 8036  mvn clean install
+ 8037  cd target/
+ 8038  cd test-classes/
+ 8039  cd sampletesting/
+ 8040  cd ..
+ 8041  cd failsafe-reports/
+ 8042  cd ..
+ 8043  vi pom.xml 
+ 8044  cd ..
+ 8045  sshaws centos@35.165.120.250
+ 8046  cd sampletesting/
+ 8047  cd src/
+ 8048  cd main/java/
+ 8049  cd sampletesting/
+ 8050  cat Rectangle.java 
+ 8051  cd ..
+ 8052  cd test/java/sampletesting/
+ 8053  vi RectangleTestCase.java 
+ 8054  cd ..
+ 8055  mvn clean jacoco:prepare-agent install jacoco:report
+ 8056  vi pom.xml 
+ 8057  mvn jacoco:report
+ 8058  cd target/
+ 8059  cd site/
+ 8060  cd jacoco/
+ 8061  open index.html 
+ 8062  cd ..
+ 8063  vi README.txt
+ 8064  clea
+ 8065  cat README.txt 
+ 8066  mvn clean
+ 8067  mvn test
+ 8068  cd target/
+ 8069  cd ..
+ 8070  mvn clean
+ 8071  pwd
+ 8072  cd ..
+ 8073  cd main/java/
+ 8074  cd sampletesting/
+ 8075  vi IntegrationTest.java
+ 8076  cd ..
+ 8077  cd test/java/
+ 8078  cd sampletesting/
+ 8079  vi ExampleIntegrationTest.java
+ 8080  vi pom.xml 
+ 8081  mvn clean test
+ 8082  vi pom.xml 
+ 8083  mvn clean test
+ 8084  cat ExampleIntegrationTest.java 
+ 8085  vi ExampleIntegrationTest.java 
+ 8086  mvn clean test
+ 8087  cd ..
+ 8088  d ..
+ 8089  cd ..
+ 8090  cd main/java/
+ 8091  cd sampletesting/
+ 8092  cat IntegrationTest.java 
+ 8093  cd ..
+ 8094  cd test/java/sampletesting/
+ 8095  vi ExampleIntegrationTest.java 
+ 8096  cd test/java/sampletesting/
+ 8097  mvn clean test
+ 8098  mvn clean test -X
+ 8099  cd target/
+ 8100  cd surefire-reports/
+ 8101  cd ..
+ 8102  cat pom.xml 
+ 8103  mvn clean install
+ 8104  cd target/
+ 8105  cd test-classes/
+ 8106  cd sampletesting/
+ 8107  cd ..
+ 8108  cd failsafe-reports/
+ 8109  cd ..
+ 8110  vi pom.xml 
+ 8111  cd ..
+ 8112  editprofile
+ 8113  cd /Volumes/Work/
+ 8114  sshaws centos@35.165.120.250
+ 8115  Process name
+ 8116  cd sampletesting/
+ 8117  cd src/
+ 8118  cd main/java/
+ 8119  cd sampletesting/
+ 8120  cat Rectangle.java 
+ 8121  cd ..
+ 8122  cd test/java/sampletesting/
+ 8123  vi RectangleTestCase.java 
+ 8124  cd ..
+ 8125  mvn clean jacoco:prepare-agent install jacoco:report
+ 8126  vi pom.xml 
+ 8127  mvn jacoco:report
+ 8128  cd target/
+ 8129  cd site/
+ 8130  cd jacoco/
+ 8131  open index.html 
+ 8132  cd ..
+ 8133  vi README.txt
+ 8134  clea
+ 8135  cat README.txt 
+ 8136  mvn clean
+ 8137  mvn test
+ 8138  cd target/
+ 8139  cd ..
+ 8140  mvn clean
+ 8141  pwd
+ 8142  cd ..
+ 8143  cd main/java/
+ 8144  cd sampletesting/
+ 8145  vi IntegrationTest.java
+ 8146  cd ..
+ 8147  cd test/java/
+ 8148  cd sampletesting/
+ 8149  vi ExampleIntegrationTest.java
+ 8150  vi pom.xml 
+ 8151  mvn clean test
+ 8152  vi pom.xml 
+ 8153  mvn clean test
+ 8154  cat ExampleIntegrationTest.java 
+ 8155  vi ExampleIntegrationTest.java 
+ 8156  mvn clean test
+ 8157  cd ..
+ 8158  d ..
+ 8159  cd ..
+ 8160  cd main/java/
+ 8161  cd sampletesting/
+ 8162  cat IntegrationTest.java 
+ 8163  cd ..
+ 8164  cd test/java/sampletesting/
+ 8165  vi ExampleIntegrationTest.java 
+ 8166  cd test/java/sampletesting/
+ 8167  mvn clean test
+ 8168  mvn clean test -X
+ 8169  cd target/
+ 8170  cd surefire-reports/
+ 8171  cd ..
+ 8172  cat pom.xml 
+ 8173  mvn clean install
+ 8174  cd target/
+ 8175  cd test-classes/
+ 8176  cd sampletesting/
+ 8177  cd ..
+ 8178  cd failsafe-reports/
+ 8179  cd ..
+ 8180  vi pom.xml 
+ 8181  cd ..
+ 8182  editprofile
+ 8183  cd /Volumes/Work/
+ 8184  sshaws centos@35.165.120.250
+ 8185  sshaws centos@54.213.196.161
+ 8186  goto home
+ 8187  cd sampletesting/
+ 8188  cd src/
+ 8189  cd main/java/
+ 8190  cd sampletesting/
+ 8191  cat Rectangle.java 
+ 8192  cd ..
+ 8193  cd test/java/sampletesting/
+ 8194  vi RectangleTestCase.java 
+ 8195  cd ..
+ 8196  mvn clean jacoco:prepare-agent install jacoco:report
+ 8197  vi pom.xml 
+ 8198  mvn jacoco:report
+ 8199  cd target/
+ 8200  cd site/
+ 8201  cd jacoco/
+ 8202  open index.html 
+ 8203  cd ..
+ 8204  vi README.txt
+ 8205  clea
+ 8206  cat README.txt 
+ 8207  mvn clean
+ 8208  mvn test
+ 8209  cd target/
+ 8210  cd ..
+ 8211  mvn clean
+ 8212  pwd
+ 8213  cd ..
+ 8214  cd main/java/
+ 8215  cd sampletesting/
+ 8216  vi IntegrationTest.java
+ 8217  cd ..
+ 8218  cd test/java/
+ 8219  cd sampletesting/
+ 8220  vi ExampleIntegrationTest.java
+ 8221  vi pom.xml 
+ 8222  mvn clean test
+ 8223  vi pom.xml 
+ 8224  mvn clean test
+ 8225  cat ExampleIntegrationTest.java 
+ 8226  vi ExampleIntegrationTest.java 
+ 8227  mvn clean test
+ 8228  cd ..
+ 8229  d ..
+ 8230  cd ..
+ 8231  cd main/java/
+ 8232  cd sampletesting/
+ 8233  cat IntegrationTest.java 
+ 8234  cd ..
+ 8235  cd test/java/sampletesting/
+ 8236  vi ExampleIntegrationTest.java 
+ 8237  cd test/java/sampletesting/
+ 8238  mvn clean test
+ 8239  mvn clean test -X
+ 8240  cd target/
+ 8241  cd surefire-reports/
+ 8242  cd ..
+ 8243  cat pom.xml 
+ 8244  mvn clean install
+ 8245  cd target/
+ 8246  cd test-classes/
+ 8247  cd sampletesting/
+ 8248  cd ..
+ 8249  cd failsafe-reports/
+ 8250  cd ..
+ 8251  vi pom.xml 
+ 8252  cd ..
+ 8253  editprofile
+ 8254  cd /Volumes/Work/
+ 8255  sshaws centos@35.165.120.250
+ 8256  sshaws centos@54.213.196.161
+ 8257  goto home
+ 8258  Process name
+ 8259  cd sampletesting/
+ 8260  cd src/
+ 8261  cd main/java/
+ 8262  cd sampletesting/
+ 8263  cat Rectangle.java 
+ 8264  cd ..
+ 8265  cd test/java/sampletesting/
+ 8266  vi RectangleTestCase.java 
+ 8267  cd ..
+ 8268  mvn clean jacoco:prepare-agent install jacoco:report
+ 8269  vi pom.xml 
+ 8270  mvn jacoco:report
+ 8271  cd target/
+ 8272  cd site/
+ 8273  cd jacoco/
+ 8274  open index.html 
+ 8275  cd ..
+ 8276  vi README.txt
+ 8277  clea
+ 8278  cat README.txt 
+ 8279  mvn clean
+ 8280  mvn test
+ 8281  cd target/
+ 8282  cd ..
+ 8283  mvn clean
+ 8284  pwd
+ 8285  cd ..
+ 8286  cd main/java/
+ 8287  cd sampletesting/
+ 8288  vi IntegrationTest.java
+ 8289  cd ..
+ 8290  cd test/java/
+ 8291  cd sampletesting/
+ 8292  vi ExampleIntegrationTest.java
+ 8293  vi pom.xml 
+ 8294  mvn clean test
+ 8295  vi pom.xml 
+ 8296  mvn clean test
+ 8297  cat ExampleIntegrationTest.java 
+ 8298  vi ExampleIntegrationTest.java 
+ 8299  mvn clean test
+ 8300  cd ..
+ 8301  d ..
+ 8302  cd ..
+ 8303  cd main/java/
+ 8304  cd sampletesting/
+ 8305  cat IntegrationTest.java 
+ 8306  cd ..
+ 8307  cd test/java/sampletesting/
+ 8308  vi ExampleIntegrationTest.java 
+ 8309  cd test/java/sampletesting/
+ 8310  mvn clean test
+ 8311  mvn clean test -X
+ 8312  cd target/
+ 8313  cd surefire-reports/
+ 8314  cd ..
+ 8315  cat pom.xml 
+ 8316  mvn clean install
+ 8317  cd target/
+ 8318  cd test-classes/
+ 8319  cd sampletesting/
+ 8320  cd ..
+ 8321  cd failsafe-reports/
+ 8322  cd ..
+ 8323  vi pom.xml 
+ 8324  cd ..
+ 8325  editprofile
+ 8326  cd /Volumes/Work/
+ 8327  sshaws centos@35.165.120.250
+ 8328  sshaws centos@54.213.196.161
+ 8329  goto home
+ 8330  open.
+ 8331  cd sampletesting/
+ 8332  cd src/
+ 8333  cd main/java/
+ 8334  cd sampletesting/
+ 8335  cat Rectangle.java 
+ 8336  cd ..
+ 8337  cd test/java/sampletesting/
+ 8338  vi RectangleTestCase.java 
+ 8339  cd ..
+ 8340  mvn clean jacoco:prepare-agent install jacoco:report
+ 8341  vi pom.xml 
+ 8342  mvn jacoco:report
+ 8343  cd target/
+ 8344  cd site/
+ 8345  cd jacoco/
+ 8346  open index.html 
+ 8347  cd ..
+ 8348  vi README.txt
+ 8349  clea
+ 8350  cat README.txt 
+ 8351  mvn clean
+ 8352  mvn test
+ 8353  cd target/
+ 8354  cd ..
+ 8355  mvn clean
+ 8356  pwd
+ 8357  cd ..
+ 8358  cd main/java/
+ 8359  cd sampletesting/
+ 8360  vi IntegrationTest.java
+ 8361  cd ..
+ 8362  cd test/java/
+ 8363  cd sampletesting/
+ 8364  vi ExampleIntegrationTest.java
+ 8365  vi pom.xml 
+ 8366  mvn clean test
+ 8367  vi pom.xml 
+ 8368  mvn clean test
+ 8369  cat ExampleIntegrationTest.java 
+ 8370  vi ExampleIntegrationTest.java 
+ 8371  mvn clean test
+ 8372  cd ..
+ 8373  d ..
+ 8374  cd ..
+ 8375  cd main/java/
+ 8376  cd sampletesting/
+ 8377  cat IntegrationTest.java 
+ 8378  cd ..
+ 8379  cd test/java/sampletesting/
+ 8380  vi ExampleIntegrationTest.java 
+ 8381  cd test/java/sampletesting/
+ 8382  mvn clean test
+ 8383  mvn clean test -X
+ 8384  cd target/
+ 8385  cd surefire-reports/
+ 8386  cd ..
+ 8387  cat pom.xml 
+ 8388  mvn clean install
+ 8389  cd target/
+ 8390  cd test-classes/
+ 8391  cd sampletesting/
+ 8392  cd ..
+ 8393  cd failsafe-reports/
+ 8394  cd ..
+ 8395  vi pom.xml 
+ 8396  cd ..
+ 8397  editprofile
+ 8398  cd /Volumes/Work/
+ 8399  sshaws centos@35.165.120.250
+ 8400  sshaws centos@54.213.196.161
+ 8401  goto home
+ 8402  open.
+ 8403  open .
+ 8404  cd sampletesting/
+ 8405  cd src/
+ 8406  cd main/java/
+ 8407  cd sampletesting/
+ 8408  cat Rectangle.java 
+ 8409  cd ..
+ 8410  cd test/java/sampletesting/
+ 8411  vi RectangleTestCase.java 
+ 8412  cd ..
+ 8413  mvn clean jacoco:prepare-agent install jacoco:report
+ 8414  vi pom.xml 
+ 8415  mvn jacoco:report
+ 8416  cd target/
+ 8417  cd site/
+ 8418  cd jacoco/
+ 8419  open index.html 
+ 8420  cd ..
+ 8421  vi README.txt
+ 8422  clea
+ 8423  cat README.txt 
+ 8424  mvn clean
+ 8425  mvn test
+ 8426  cd target/
+ 8427  cd ..
+ 8428  mvn clean
+ 8429  pwd
+ 8430  cd ..
+ 8431  cd main/java/
+ 8432  cd sampletesting/
+ 8433  vi IntegrationTest.java
+ 8434  cd ..
+ 8435  cd test/java/
+ 8436  cd sampletesting/
+ 8437  vi ExampleIntegrationTest.java
+ 8438  vi pom.xml 
+ 8439  mvn clean test
+ 8440  vi pom.xml 
+ 8441  mvn clean test
+ 8442  cat ExampleIntegrationTest.java 
+ 8443  vi ExampleIntegrationTest.java 
+ 8444  mvn clean test
+ 8445  cd ..
+ 8446  d ..
+ 8447  cd ..
+ 8448  cd main/java/
+ 8449  cd sampletesting/
+ 8450  cat IntegrationTest.java 
+ 8451  cd ..
+ 8452  cd test/java/sampletesting/
+ 8453  vi ExampleIntegrationTest.java 
+ 8454  cd test/java/sampletesting/
+ 8455  mvn clean test
+ 8456  mvn clean test -X
+ 8457  cd target/
+ 8458  cd surefire-reports/
+ 8459  cd ..
+ 8460  cat pom.xml 
+ 8461  mvn clean install
+ 8462  cd target/
+ 8463  cd test-classes/
+ 8464  cd sampletesting/
+ 8465  cd ..
+ 8466  cd failsafe-reports/
+ 8467  cd ..
+ 8468  vi pom.xml 
+ 8469  cd ..
+ 8470  editprofile
+ 8471  cd /Volumes/Work/
+ 8472  sshaws centos@35.165.120.250
+ 8473  sshaws centos@54.213.196.161
+ 8474  goto home
+ 8475  open.
+ 8476  open .
+ 8477  Process name
+ 8478  cd sampletesting/
+ 8479  cd src/
+ 8480  cd main/java/
+ 8481  cd sampletesting/
+ 8482  cat Rectangle.java 
+ 8483  cd ..
+ 8484  cd test/java/sampletesting/
+ 8485  vi RectangleTestCase.java 
+ 8486  cd ..
+ 8487  mvn clean jacoco:prepare-agent install jacoco:report
+ 8488  vi pom.xml 
+ 8489  mvn jacoco:report
+ 8490  cd target/
+ 8491  cd site/
+ 8492  cd jacoco/
+ 8493  open index.html 
+ 8494  cd ..
+ 8495  vi README.txt
+ 8496  clea
+ 8497  cat README.txt 
+ 8498  mvn clean
+ 8499  mvn test
+ 8500  cd target/
+ 8501  cd ..
+ 8502  mvn clean
+ 8503  pwd
+ 8504  cd ..
+ 8505  cd main/java/
+ 8506  cd sampletesting/
+ 8507  vi IntegrationTest.java
+ 8508  cd ..
+ 8509  cd test/java/
+ 8510  cd sampletesting/
+ 8511  vi ExampleIntegrationTest.java
+ 8512  vi pom.xml 
+ 8513  mvn clean test
+ 8514  vi pom.xml 
+ 8515  mvn clean test
+ 8516  cat ExampleIntegrationTest.java 
+ 8517  vi ExampleIntegrationTest.java 
+ 8518  mvn clean test
+ 8519  cd ..
+ 8520  d ..
+ 8521  cd ..
+ 8522  cd main/java/
+ 8523  cd sampletesting/
+ 8524  cat IntegrationTest.java 
+ 8525  cd ..
+ 8526  cd test/java/sampletesting/
+ 8527  vi ExampleIntegrationTest.java 
+ 8528  cd test/java/sampletesting/
+ 8529  mvn clean test
+ 8530  mvn clean test -X
+ 8531  cd target/
+ 8532  cd surefire-reports/
+ 8533  cd ..
+ 8534  cat pom.xml 
+ 8535  mvn clean install
+ 8536  cd target/
+ 8537  cd test-classes/
+ 8538  cd sampletesting/
+ 8539  cd ..
+ 8540  cd failsafe-reports/
+ 8541  cd ..
+ 8542  vi pom.xml 
+ 8543  cd ..
+ 8544  editprofile
+ 8545  cd /Volumes/Work/
+ 8546  sshaws centos@35.165.120.250
+ 8547  sshaws centos@54.213.196.161
+ 8548  goto home
+ 8549  open.
+ 8550  open .
+ 8551  Process name
+ 8552  cd sampletesting/
+ 8553  cd src/
+ 8554  cd main/java/
+ 8555  cd sampletesting/
+ 8556  cat Rectangle.java 
+ 8557  cd ..
+ 8558  cd test/java/sampletesting/
+ 8559  vi RectangleTestCase.java 
+ 8560  cd ..
+ 8561  mvn clean jacoco:prepare-agent install jacoco:report
+ 8562  vi pom.xml 
+ 8563  mvn jacoco:report
+ 8564  cd target/
+ 8565  cd site/
+ 8566  cd jacoco/
+ 8567  open index.html 
+ 8568  cd ..
+ 8569  vi README.txt
+ 8570  clea
+ 8571  cat README.txt 
+ 8572  mvn clean
+ 8573  mvn test
+ 8574  cd target/
+ 8575  cd ..
+ 8576  mvn clean
+ 8577  pwd
+ 8578  cd ..
+ 8579  cd main/java/
+ 8580  cd sampletesting/
+ 8581  vi IntegrationTest.java
+ 8582  cd ..
+ 8583  cd test/java/
+ 8584  cd sampletesting/
+ 8585  vi ExampleIntegrationTest.java
+ 8586  vi pom.xml 
+ 8587  mvn clean test
+ 8588  vi pom.xml 
+ 8589  mvn clean test
+ 8590  cat ExampleIntegrationTest.java 
+ 8591  vi ExampleIntegrationTest.java 
+ 8592  mvn clean test
+ 8593  cd ..
+ 8594  d ..
+ 8595  cd ..
+ 8596  cd main/java/
+ 8597  cd sampletesting/
+ 8598  cat IntegrationTest.java 
+ 8599  cd ..
+ 8600  cd test/java/sampletesting/
+ 8601  vi ExampleIntegrationTest.java 
+ 8602  cd test/java/sampletesting/
+ 8603  mvn clean test
+ 8604  mvn clean test -X
+ 8605  cd target/
+ 8606  cd surefire-reports/
+ 8607  cd ..
+ 8608  cat pom.xml 
+ 8609  mvn clean install
+ 8610  cd target/
+ 8611  cd test-classes/
+ 8612  cd sampletesting/
+ 8613  cd ..
+ 8614  cd failsafe-reports/
+ 8615  cd ..
+ 8616  vi pom.xml 
+ 8617  cd ..
+ 8618  editprofile
+ 8619  cd /Volumes/Work/
+ 8620  sshaws centos@35.165.120.250
+ 8621  sshaws centos@54.213.196.161
+ 8622  goto home
+ 8623  open.
+ 8624  open .
+ 8625  cp .bashrc /Volumes/Work/
+ 8626  cd sampletesting/
+ 8627  cd src/
+ 8628  cd main/java/
+ 8629  cd sampletesting/
+ 8630  cat Rectangle.java 
+ 8631  cd ..
+ 8632  cd test/java/sampletesting/
+ 8633  vi RectangleTestCase.java 
+ 8634  cd ..
+ 8635  mvn clean jacoco:prepare-agent install jacoco:report
+ 8636  vi pom.xml 
+ 8637  mvn jacoco:report
+ 8638  cd target/
+ 8639  cd site/
+ 8640  cd jacoco/
+ 8641  open index.html 
+ 8642  cd ..
+ 8643  vi README.txt
+ 8644  clea
+ 8645  cat README.txt 
+ 8646  mvn clean
+ 8647  mvn test
+ 8648  cd target/
+ 8649  cd ..
+ 8650  mvn clean
+ 8651  pwd
+ 8652  cd ..
+ 8653  cd main/java/
+ 8654  cd sampletesting/
+ 8655  vi IntegrationTest.java
+ 8656  cd ..
+ 8657  cd test/java/
+ 8658  cd sampletesting/
+ 8659  vi ExampleIntegrationTest.java
+ 8660  vi pom.xml 
+ 8661  mvn clean test
+ 8662  vi pom.xml 
+ 8663  mvn clean test
+ 8664  cat ExampleIntegrationTest.java 
+ 8665  vi ExampleIntegrationTest.java 
+ 8666  mvn clean test
+ 8667  cd ..
+ 8668  d ..
+ 8669  cd ..
+ 8670  cd main/java/
+ 8671  cd sampletesting/
+ 8672  cat IntegrationTest.java 
+ 8673  cd ..
+ 8674  cd test/java/sampletesting/
+ 8675  vi ExampleIntegrationTest.java 
+ 8676  cd test/java/sampletesting/
+ 8677  mvn clean test
+ 8678  mvn clean test -X
+ 8679  cd target/
+ 8680  cd surefire-reports/
+ 8681  cd ..
+ 8682  cat pom.xml 
+ 8683  mvn clean install
+ 8684  cd target/
+ 8685  cd test-classes/
+ 8686  cd sampletesting/
+ 8687  cd ..
+ 8688  cd failsafe-reports/
+ 8689  cd ..
+ 8690  vi pom.xml 
+ 8691  cd ..
+ 8692  editprofile
+ 8693  cd /Volumes/Work/
+ 8694  sshaws centos@35.165.120.250
+ 8695  sshaws centos@54.213.196.161
+ 8696  goto home
+ 8697  open.
+ 8698  open .
+ 8699  cp .bashrc /Volumes/Work/
+ 8700  cp .bash_profile /Volumes/Work/
+ 8701  cd sampletesting/
+ 8702  cd src/
+ 8703  cd main/java/
+ 8704  cd sampletesting/
+ 8705  cat Rectangle.java 
+ 8706  cd ..
+ 8707  cd test/java/sampletesting/
+ 8708  vi RectangleTestCase.java 
+ 8709  cd ..
+ 8710  mvn clean jacoco:prepare-agent install jacoco:report
+ 8711  vi pom.xml 
+ 8712  mvn jacoco:report
+ 8713  cd target/
+ 8714  cd site/
+ 8715  cd jacoco/
+ 8716  open index.html 
+ 8717  cd ..
+ 8718  vi README.txt
+ 8719  clea
+ 8720  cat README.txt 
+ 8721  mvn clean
+ 8722  mvn test
+ 8723  cd target/
+ 8724  cd ..
+ 8725  mvn clean
+ 8726  pwd
+ 8727  cd ..
+ 8728  cd main/java/
+ 8729  cd sampletesting/
+ 8730  vi IntegrationTest.java
+ 8731  cd ..
+ 8732  cd test/java/
+ 8733  cd sampletesting/
+ 8734  vi ExampleIntegrationTest.java
+ 8735  vi pom.xml 
+ 8736  mvn clean test
+ 8737  vi pom.xml 
+ 8738  mvn clean test
+ 8739  cat ExampleIntegrationTest.java 
+ 8740  vi ExampleIntegrationTest.java 
+ 8741  mvn clean test
+ 8742  cd ..
+ 8743  d ..
+ 8744  cd ..
+ 8745  cd main/java/
+ 8746  cd sampletesting/
+ 8747  cat IntegrationTest.java 
+ 8748  cd ..
+ 8749  cd test/java/sampletesting/
+ 8750  vi ExampleIntegrationTest.java 
+ 8751  cd test/java/sampletesting/
+ 8752  mvn clean test
+ 8753  mvn clean test -X
+ 8754  cd target/
+ 8755  cd surefire-reports/
+ 8756  cd ..
+ 8757  cat pom.xml 
+ 8758  mvn clean install
+ 8759  cd target/
+ 8760  cd test-classes/
+ 8761  cd sampletesting/
+ 8762  cd ..
+ 8763  cd failsafe-reports/
+ 8764  cd ..
+ 8765  vi pom.xml 
+ 8766  cd ..
+ 8767  editprofile
+ 8768  cd /Volumes/Work/
+ 8769  sshaws centos@35.165.120.250
+ 8770  sshaws centos@54.213.196.161
+ 8771  goto home
+ 8772  open.
+ 8773  open .
+ 8774  cp .bashrc /Volumes/Work/
+ 8775  cp .bash_profile /Volumes/Work/
+ 8776  Process name
+ 8777  cd sampletesting/
+ 8778  cd src/
+ 8779  cd main/java/
+ 8780  cd sampletesting/
+ 8781  cat Rectangle.java 
+ 8782  cd ..
+ 8783  cd test/java/sampletesting/
+ 8784  vi RectangleTestCase.java 
+ 8785  cd ..
+ 8786  mvn clean jacoco:prepare-agent install jacoco:report
+ 8787  vi pom.xml 
+ 8788  mvn jacoco:report
+ 8789  cd target/
+ 8790  cd site/
+ 8791  cd jacoco/
+ 8792  open index.html 
+ 8793  cd ..
+ 8794  vi README.txt
+ 8795  clea
+ 8796  cat README.txt 
+ 8797  mvn clean
+ 8798  mvn test
+ 8799  cd target/
+ 8800  cd ..
+ 8801  mvn clean
+ 8802  pwd
+ 8803  cd ..
+ 8804  cd main/java/
+ 8805  cd sampletesting/
+ 8806  vi IntegrationTest.java
+ 8807  cd ..
+ 8808  cd test/java/
+ 8809  cd sampletesting/
+ 8810  vi ExampleIntegrationTest.java
+ 8811  vi pom.xml 
+ 8812  mvn clean test
+ 8813  vi pom.xml 
+ 8814  mvn clean test
+ 8815  cat ExampleIntegrationTest.java 
+ 8816  vi ExampleIntegrationTest.java 
+ 8817  mvn clean test
+ 8818  cd ..
+ 8819  d ..
+ 8820  cd ..
+ 8821  cd main/java/
+ 8822  cd sampletesting/
+ 8823  cat IntegrationTest.java 
+ 8824  cd ..
+ 8825  cd test/java/sampletesting/
+ 8826  vi ExampleIntegrationTest.java 
+ 8827  cd test/java/sampletesting/
+ 8828  mvn clean test
+ 8829  mvn clean test -X
+ 8830  cd target/
+ 8831  cd surefire-reports/
+ 8832  cd ..
+ 8833  cat pom.xml 
+ 8834  mvn clean install
+ 8835  cd target/
+ 8836  cd test-classes/
+ 8837  cd sampletesting/
+ 8838  cd ..
+ 8839  cd failsafe-reports/
+ 8840  cd ..
+ 8841  vi pom.xml 
+ 8842  cd ..
+ 8843  editprofile
+ 8844  cd /Volumes/Work/
+ 8845  sshaws centos@35.165.120.250
+ 8846  sshaws centos@54.213.196.161
+ 8847  goto home
+ 8848  open.
+ 8849  open .
+ 8850  cp .bashrc /Volumes/Work/
+ 8851  cp .bash_profile /Volumes/Work/
+ 8852  history >> /Volumes/Work/history
