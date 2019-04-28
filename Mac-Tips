@@ -41,3 +41,6 @@ Starting/stopping the service
     To manually stop the daemon: sudo launchctl unload /Library/LaunchDaemons/org.jenkins-ci.plist
 
 
+Install Goto, hh,bash_compleation
+
+
