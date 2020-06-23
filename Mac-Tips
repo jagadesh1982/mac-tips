@@ -15,6 +15,14 @@ start Jenkins : sudo launchctl load /Library/LaunchDaemons/org.jenkins-ci.plist
 stop  Jenkins : sudo launchctl unload /Library/LaunchDaemons/org.jenkins-ci.plist
 
 Add Arguments to Jenkins ( Location of the file ) : /Library/Application Support/Jenkins/jenkins-runner.sh
+
+
+    Install the latest LTS version: brew install jenkins-lts
+    Install a specific LTS version: brew install jenkins-lts@YOUR_VERSION
+    Start the Jenkins service: brew services start jenkins-lts
+    Restart the Jenkins service: brew services restart jenkins-lts
+    Update the Jenkins version: brew upgrade jenkins-lts
+
 ----------------
 
 
